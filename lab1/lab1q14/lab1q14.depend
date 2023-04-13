@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680619250 source:f:\iti4m\c programing\mylabs\lab1\lab1q14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
